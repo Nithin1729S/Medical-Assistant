@@ -14,8 +14,7 @@ def home_page():
     st.markdown(
     """
     <div style='text-align: center; font-family: "Courier New", Courier, monospace;'>
-        Welcome to your one-stop solution for medical predictions and analysis.
-    </div>
+Welcome to your comprehensive platform for medical predictions and analysis.    </div>
     """,unsafe_allow_html=True
     )
 
@@ -29,7 +28,6 @@ def home_page():
             - Heart Disease Prediction: Assess the likelihood of heart disease.\n
             - Tuberculosis Detection: Identify potential signs of tuberculosis.\n
             - Skin Cancer Classification: Evaluate skin conditions for possible cancer.\n
-            - Chat with a Health Assistant: Ask questions about health or use the chat for general assistance.
     '''
     )
 
