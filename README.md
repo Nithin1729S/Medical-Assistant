@@ -1,4 +1,4 @@
-# Medical Assstant
+# Medical Assistant
 
 This Streamlit application provides a user interface for various medical diagnostics and classifications.
 
