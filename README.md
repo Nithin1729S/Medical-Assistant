@@ -1,6 +1,6 @@
 # Medical Assistant
 
-This Streamlit application provides a user interface for various medical diagnostics and classifications.
+A web application that allows users to get consultations on Heart Diseases, Skin Cancer, and Tuberculosis by uploading images of Chest X-rays and skin lesions or providing surveys on life and health conditions.
 
 
 ## Demo
